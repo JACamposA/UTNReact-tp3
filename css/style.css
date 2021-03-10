@@ -1,0 +1,16 @@
+body{
+        background-color: #00FF00;
+}
+#cuadrado-amarillo{
+        margin: 75px 0 0 350px;
+        background-color: yellow;
+        width: 700px;
+        height: 700px;
+}
+#flor-roja{
+        margin: 15%;
+        width: 500px;
+        height: 500px;
+}
+body{ overflow:hidden; }
+
